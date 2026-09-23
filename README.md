@@ -1,6 +1,6 @@
 # Hướng dẫn sử dụng máy tính PyQt6
 
-File chương trình: `may_tinh_vibe_code(1).py`. Ứng dụng tính biểu thức với bốn phép cộng, trừ, nhân, chia và dấu ngoặc.
+File chương trình: `may_tinh_vibe_code.py`. Ứng dụng tính biểu thức với bốn phép cộng, trừ, nhân, chia và dấu ngoặc.
 
 ## Cài đặt và mở ứng dụng trên Windows
 
@@ -10,7 +10,7 @@ File chương trình: `may_tinh_vibe_code(1).py`. Ứng dụng tính biểu th�
 
 ```cmd
 py -m pip install PyQt6
-py "may_tinh_vibe_code(1).py"
+py "may_tinh_vibe_code.py"
 ```
 
 Nếu CMD không nhận lệnh `py`, thay `py` bằng `python`. Nếu bạn đã đổi tên file, hãy dùng đúng tên mới trong lệnh chạy; ví dụ: `py may_tinh_vibe_code.py`.
